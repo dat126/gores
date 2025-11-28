@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GoTest Pilot",
+  "description": "A modern API interface testing tool similar to JMeter. Features real-time request testing, response analysis, and automatic Go language test code generation powered by Gemini AI.",
+  "requestFramePermissions": []
+}
